@@ -1,4 +1,4 @@
-![image](https://github.com/KaraKarabina/Hello_Forest/assets/151890908/f7154886-2bcd-4eb8-85b4-4d58ea171b67)# Hello Forest
+# Hello Forest
 ## Project for the bootcamp of Tecnolochicas Pro.
 
 ### Descripción 
